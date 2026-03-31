@@ -10,10 +10,15 @@ I worked on understanding sales trends, identifying top-performing products, eva
 Key Insights
 
 Top Revenue Products; Televisions and Laptops are driving the highest revenue.
+
 Top-Selling Products; Televisions and Speakers are sold in the largest quantities.
+
 Revenue by Region; East Africa and West Africa are the most profitable regions.
+
 Trends; Monthly net sales show a peak in May, indicating seasonal buying patterns.
+
 Category Distribution; Electronics dominate revenue, contributing 80% of total sales.
+
 Discount Patterns; East Africa offered the highest discounts, which aligns with high sales volumes.
 
 These insights help the business decide where to focus marketing, stock, and promotional efforts for maximum profitability.
