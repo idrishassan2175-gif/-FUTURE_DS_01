@@ -21,7 +21,6 @@ Category Distribution; Electronics dominate revenue, contributing 80% of total s
 
 Discount Patterns; East Africa offered the highest discounts, which aligns with high sales volumes.
 
-These insights help the business decide where to focus marketing, stock, and promotional efforts for maximum profitability.
 
 Tools Used
 
